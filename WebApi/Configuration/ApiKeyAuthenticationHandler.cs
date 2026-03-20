@@ -21,11 +21,11 @@ public class ApiKeyAuthenticationHandler: AuthenticationHandler<AuthenticationSc
             var claims = new[] {
                 new Claim(ClaimTypes.Name, "SystemAccount") };
 
-            var identity = new ClaimsIdentity(claims, ApiKeyAuthenticationSсheme.ShemeName);
+            var identity = new ClaimsIdentity(claims, ApiKeyAuthenticationScheme.SchemeName);
 
             var principal = new ClaimsPrincipal(identity);
 
-            var ticket = new AuthenticationTicket(principal, ApiKeyAuthenticationSсheme.ShemeName);
+            var ticket = new AuthenticationTicket(principal, ApiKeyAuthenticationScheme.SchemeName);
 
             return AuthenticateResult.Success(ticket);
         }

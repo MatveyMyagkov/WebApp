@@ -2738,11 +2738,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "D:\\Новая папка\\source\\repos\\WebApp\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\user\\source\\repos\\DataAccess\\DataAccess.csproj",
+      "projectPath": "D:\\Новая папка\\source\\repos\\WebApp\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\DataAccess\\obj\\",
+      "outputPath": "D:\\Новая папка\\source\\repos\\WebApp\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2763,8 +2763,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\Domain\\Domain.csproj"
+            "D:\\Новая папка\\source\\repos\\WebApp\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Новая папка\\source\\repos\\WebApp\\Domain\\Domain.csproj"
             }
           }
         }

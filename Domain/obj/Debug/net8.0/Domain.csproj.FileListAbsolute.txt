@@ -9,3 +9,14 @@ C:\Users\user\source\repos\Domain\obj\Debug\net8.0\Domain.dll
 C:\Users\user\source\repos\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\user\source\repos\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\user\source\repos\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Новая папка\source\repos\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Новая папка\source\repos\Domain\bin\Debug\net8.0\Domain.dll
+D:\Новая папка\source\repos\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Новая папка\source\repos\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка\source\repos\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Новая папка\source\repos\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Новая папка\source\repos\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Новая папка\source\repos\Domain\obj\Debug\net8.0\Domain.dll
+D:\Новая папка\source\repos\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Новая папка\source\repos\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Новая папка\source\repos\Domain\obj\Debug\net8.0\ref\Domain.dll

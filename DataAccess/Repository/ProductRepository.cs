@@ -27,4 +27,21 @@ internal class ProductRepository: IProductRepository
     {
         return await _dbContext.Products.FindAsync(id);
     }
+
+    public void UpdateProduct(Product product)
+    {
+        _dbContext.Entry(product).State = EntityState.Modified;
+    }
+
+    public void DeleteProduct(Product product)
+    {
+        _dbContext.Products.Remove(product);
+    }
+
+    public async Task SaveChangesAsync()
+    {
+        await _dbContext.SaveChangesAsync();
+    }
+
+
 }
